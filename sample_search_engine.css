@@ -1,0 +1,15 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#titleHead {
+	font-style: italic;
+	color: black;
+	float: inline;
+}
+
+#searchBox {
+	width: 300px;
+	margin: auto 10px;
+}
